@@ -1,3 +1,4 @@
+#Developed by Noorah Albuainain
 def calc(choice,x,y):
     if choice == '1':
         result = x + y
