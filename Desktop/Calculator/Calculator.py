@@ -1,4 +1,5 @@
 #Developed by Noorah Albuainain
+#-------------------------------------------
 def calc(choice,x,y):
     if choice == '1':
         result = x + y
@@ -20,7 +21,7 @@ def calc(choice,x,y):
                 print (e)
     else :
         print ("Invalid option")
-         
+#-------------------------------------------         
         
 i = 0 
 while (i!=5):
